@@ -7,7 +7,9 @@
 
 ## BACKGROUND
 
+<p align = "center">
 This is an online automatic number plate recognition tool which returns the license plate as the output text. It was built on Flask backend, YOLO v4 for the detection of license plates and our custom text recognizer which retrieves the number. 
+  </p>
 
 ## RESULT
 
